@@ -16,15 +16,16 @@ Add a script to package.json to run the JSON server:
 "scripts": {
 
   "start": "react-scripts start",
+  
   "server": "json-server --watch db.json --port 5000"
   
 }
 
-to run JSON server you can 
+to run JSON server just run
 
 ### npm run server
 
-Then  run 
+Then run for the application type
 
 ### `npm start`
 
