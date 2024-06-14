@@ -9,9 +9,7 @@ In the project directory, you can run:
 ### npm install 
 // to install all the dependencies.
 
-And then
-
-Add a script to package.json to run the JSON server:
+After that add a script to package.json to run the JSON server:
 
 "scripts": {
 
@@ -21,7 +19,7 @@ Add a script to package.json to run the JSON server:
   
 }
 
-to run JSON server just run
+then start JSON server by 
 
 ### npm run server
 
