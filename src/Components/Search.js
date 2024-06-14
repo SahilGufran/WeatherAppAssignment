@@ -1,5 +1,3 @@
-
-// src/components/Search.js
 import React, { useState } from 'react';
 
 const Search = ({ fetchWeatherData }) => {
