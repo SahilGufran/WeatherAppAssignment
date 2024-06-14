@@ -6,6 +6,23 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+### npm install // to install all the dependencies.
+
+And then
+
+Add a script to package.json to run the JSON server:
+
+"scripts": {
+  "start": "react-scripts start",
+  "server": "json-server --watch db.json --port 5000"
+}
+
+to run JSON server you can 
+
+### npm run server
+
+Then  run 
+
 ### `npm start`
 
 Runs the app in the development mode.\
