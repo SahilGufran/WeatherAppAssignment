@@ -23,7 +23,7 @@ then start JSON server by
 
 ### npm run server
 
-Then run for the application type
+Then run for the main application type
 
 ### `npm start`
 
