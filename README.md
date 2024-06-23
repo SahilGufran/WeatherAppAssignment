@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Live: <a href="https://weatherappassignment12.netlify.app">Weather App</a>
 
 ## Available Scripts
 
